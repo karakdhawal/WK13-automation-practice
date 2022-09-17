@@ -14,6 +14,8 @@ import org.junit.runner.RunWith;
                 "com.cucumber.listener.ExtentCucumberFormatter:target/Extent_Reports/report.html",
                 "json:target/RunCuke/cucumber.json"
         }
+        //,
+        //tags="smoke"
 )
 
 public class TestRunner {

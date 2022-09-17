@@ -21,13 +21,14 @@ public class WomenCategoryPage extends Utility {
     WebElement womenText;
 
     @CacheLookup
-    @FindBy (xpath = "//ul[@class='product_list grid row']")
+    @FindBy (xpath = "//a[@class='product-name']")
     List<WebElement> productlist;
 
-    public void clickOnTheProduct (String product){
+    public void clickOnTheProduct (String product) throws InterruptedException {
         for (WebElement listPrd : productlist){
             if (listPrd.getText().equalsIgnoreCase(product)){
-                clickOnElement(listPrd);
+                Thread.sleep(2000);
+                listPrd.click();
                 break;
             }
         }

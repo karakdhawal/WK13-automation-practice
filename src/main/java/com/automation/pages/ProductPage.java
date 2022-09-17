@@ -30,7 +30,7 @@ public class ProductPage extends Utility {
     WebElement addToCartButton;
 
     @CacheLookup
-    @FindBy (xpath = "//div[@class='clearfix']/div[1]/h2[1]")
+    @FindBy (xpath = "//a[@title='Proceed to checkout']/span")  // (xpath = "//div[@class='clearfix']/div[1]/h2[1]")
     WebElement shoppingCartText;
 
     @CacheLookup
@@ -50,19 +50,23 @@ public class ProductPage extends Utility {
     }
 
     @CacheLookup
-    @FindBy (xpath = "//div[@id='attributes']/fieldset[2]/div[1]/ul[1]")
+    @FindBy (xpath = "//a[@class='color_pick']")
     List<WebElement> colourList;
+
+    @CacheLookup
+    @FindBy (xpath = "//a[@class='color_pick selected']")
+    WebElement yellow;
 
     public void selectColour (String colour){
         for (WebElement listClr : colourList){
             if(listClr.getText().equalsIgnoreCase(colour)){
-                clickOnElement(listClr);
+                listClr.click();
                 break;
             }
         }
     }
     public void selectSize (String size){
-        selectByValueFromDropDown(sizeDropDown, size);
+        selectByVisibleTextFromDropDown(sizeDropDown, size);
     }
 
     public void changeQty (String qty) {

@@ -6,7 +6,7 @@ Feature: Women Category Page Test
     Then I verify women text
 
 
-
+  @smoke
   Scenario Outline:  Verify user should add product to the cart successfully
     Given I am on home page
     When I click on women tab
@@ -15,7 +15,6 @@ Feature: Women Category Page Test
     And I select size "<size>"
     And I select colour "<colour>"
     And I click on add to cart button
-    And I see pop up will display
     And I verify the message product successfully added to your shopping cart
     Then click on x button nad close the pop up
     Examples:

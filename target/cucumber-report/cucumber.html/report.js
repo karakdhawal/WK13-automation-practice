@@ -7,7 +7,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 6910803600,
+  "duration": 6113321500,
   "status": "passed"
 });
 formatter.scenario({
@@ -57,53 +57,53 @@ formatter.match({
   "location": "SignInStepdefs.iAmOnHomePage()"
 });
 formatter.result({
-  "duration": 52391300,
+  "duration": 56417300,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInStepdefs.iClickOnSignInLink()"
 });
 formatter.result({
-  "duration": 3785909701,
+  "duration": 3253284700,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateAcStepdefs.iEnterEmailAddress()"
 });
 formatter.result({
-  "duration": 85652700,
+  "duration": 85285200,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateAcStepdefs.iClickOnCreateAnAccountButton()"
 });
 formatter.result({
-  "duration": 58951999,
+  "duration": 53754800,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateAcStepdefs.iFillAllMandetoryFields()"
 });
 formatter.result({
-  "duration": 13846050400,
+  "duration": 11763048500,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateAcStepdefs.iClickOnRegisterButton()"
 });
 formatter.result({
-  "duration": 28341400,
+  "duration": 33074700,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateAcStepdefs.iVerifyMessageMyAccount()"
 });
 formatter.result({
-  "duration": 13500,
+  "duration": 26200,
   "status": "passed"
 });
 formatter.after({
-  "duration": 69900,
+  "duration": 655208200,
   "status": "passed"
 });
 formatter.uri("signinPage.feature");
@@ -115,7 +115,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 5507913800,
+  "duration": 5489406900,
   "status": "passed"
 });
 formatter.scenario({
@@ -145,25 +145,25 @@ formatter.match({
   "location": "SignInStepdefs.iAmOnHomePage()"
 });
 formatter.result({
-  "duration": 26800,
+  "duration": 15800,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInStepdefs.iClickOnSignInLink()"
 });
 formatter.result({
-  "duration": 2741249000,
+  "duration": 4778907700,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInStepdefs.iVerifyThatAuthenticationMessageIsDisplayed()"
 });
 formatter.result({
-  "duration": 28381999,
+  "duration": 34013800,
   "status": "passed"
 });
 formatter.after({
-  "duration": 21500,
+  "duration": 655391100,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -259,7 +259,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 4143519600,
+  "duration": 4365163700,
   "status": "passed"
 });
 formatter.scenario({
@@ -313,14 +313,14 @@ formatter.match({
   "location": "SignInStepdefs.iAmOnHomePage()"
 });
 formatter.result({
-  "duration": 18800,
+  "duration": 35000,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInStepdefs.iClickOnSignInLink()"
 });
 formatter.result({
-  "duration": 2225527399,
+  "duration": 2626853600,
   "status": "passed"
 });
 formatter.match({
@@ -333,7 +333,7 @@ formatter.match({
   "location": "SignInStepdefs.iEnterUsername(String)"
 });
 formatter.result({
-  "duration": 59746501,
+  "duration": 60830100,
   "status": "passed"
 });
 formatter.match({
@@ -346,14 +346,14 @@ formatter.match({
   "location": "SignInStepdefs.iEnterPassword(String)"
 });
 formatter.result({
-  "duration": 74517999,
+  "duration": 78388800,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInStepdefs.iClickOnSignInButton()"
 });
 formatter.result({
-  "duration": 924692100,
+  "duration": 1750865000,
   "status": "passed"
 });
 formatter.match({
@@ -366,15 +366,15 @@ formatter.match({
   "location": "SignInStepdefs.iVerifyTheErrorMessage(String)"
 });
 formatter.result({
-  "duration": 25579999,
+  "duration": 27633200,
   "status": "passed"
 });
 formatter.after({
-  "duration": 22100,
+  "duration": 613693100,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4113884500,
+  "duration": 5106659100,
   "status": "passed"
 });
 formatter.scenario({
@@ -428,14 +428,14 @@ formatter.match({
   "location": "SignInStepdefs.iAmOnHomePage()"
 });
 formatter.result({
-  "duration": 27301,
+  "duration": 41100,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInStepdefs.iClickOnSignInLink()"
 });
 formatter.result({
-  "duration": 1584240001,
+  "duration": 3077191800,
   "status": "passed"
 });
 formatter.match({
@@ -448,7 +448,7 @@ formatter.match({
   "location": "SignInStepdefs.iEnterUsername(String)"
 });
 formatter.result({
-  "duration": 63898900,
+  "duration": 82265300,
   "status": "passed"
 });
 formatter.match({
@@ -461,14 +461,14 @@ formatter.match({
   "location": "SignInStepdefs.iEnterPassword(String)"
 });
 formatter.result({
-  "duration": 68820100,
+  "duration": 61173500,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInStepdefs.iClickOnSignInButton()"
 });
 formatter.result({
-  "duration": 863714301,
+  "duration": 2690834900,
   "status": "passed"
 });
 formatter.match({
@@ -481,15 +481,15 @@ formatter.match({
   "location": "SignInStepdefs.iVerifyTheErrorMessage(String)"
 });
 formatter.result({
-  "duration": 28547700,
+  "duration": 33303600,
   "status": "passed"
 });
 formatter.after({
-  "duration": 15700,
+  "duration": 645158300,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4056576400,
+  "duration": 5903218500,
   "status": "passed"
 });
 formatter.scenario({
@@ -543,14 +543,14 @@ formatter.match({
   "location": "SignInStepdefs.iAmOnHomePage()"
 });
 formatter.result({
-  "duration": 22600,
+  "duration": 30700,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInStepdefs.iClickOnSignInLink()"
 });
 formatter.result({
-  "duration": 2636615500,
+  "duration": 4525495300,
   "status": "passed"
 });
 formatter.match({
@@ -563,7 +563,7 @@ formatter.match({
   "location": "SignInStepdefs.iEnterUsername(String)"
 });
 formatter.result({
-  "duration": 69323899,
+  "duration": 64784500,
   "status": "passed"
 });
 formatter.match({
@@ -576,14 +576,14 @@ formatter.match({
   "location": "SignInStepdefs.iEnterPassword(String)"
 });
 formatter.result({
-  "duration": 72492500,
+  "duration": 64369500,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInStepdefs.iClickOnSignInButton()"
 });
 formatter.result({
-  "duration": 1402664500,
+  "duration": 932540100,
   "status": "passed"
 });
 formatter.match({
@@ -596,15 +596,15 @@ formatter.match({
   "location": "SignInStepdefs.iVerifyTheErrorMessage(String)"
 });
 formatter.result({
-  "duration": 29559300,
+  "duration": 24344900,
   "status": "passed"
 });
 formatter.after({
-  "duration": 14301,
+  "duration": 617767900,
   "status": "passed"
 });
 formatter.before({
-  "duration": 3912940500,
+  "duration": 5252432900,
   "status": "passed"
 });
 formatter.scenario({
@@ -658,14 +658,14 @@ formatter.match({
   "location": "SignInStepdefs.iAmOnHomePage()"
 });
 formatter.result({
-  "duration": 22100,
+  "duration": 23800,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInStepdefs.iClickOnSignInLink()"
 });
 formatter.result({
-  "duration": 1983875599,
+  "duration": 2126454300,
   "status": "passed"
 });
 formatter.match({
@@ -678,7 +678,7 @@ formatter.match({
   "location": "SignInStepdefs.iEnterUsername(String)"
 });
 formatter.result({
-  "duration": 74488000,
+  "duration": 68086100,
   "status": "passed"
 });
 formatter.match({
@@ -691,14 +691,14 @@ formatter.match({
   "location": "SignInStepdefs.iEnterPassword(String)"
 });
 formatter.result({
-  "duration": 70642199,
+  "duration": 72612700,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInStepdefs.iClickOnSignInButton()"
 });
 formatter.result({
-  "duration": 1148722601,
+  "duration": 1483602800,
   "status": "passed"
 });
 formatter.match({
@@ -711,15 +711,15 @@ formatter.match({
   "location": "SignInStepdefs.iVerifyTheErrorMessage(String)"
 });
 formatter.result({
-  "duration": 29577301,
+  "duration": 24003900,
   "status": "passed"
 });
 formatter.after({
-  "duration": 14700,
+  "duration": 611768400,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4694125000,
+  "duration": 6128806000,
   "status": "passed"
 });
 formatter.scenario({
@@ -764,50 +764,50 @@ formatter.match({
   "location": "SignInStepdefs.iAmOnHomePage()"
 });
 formatter.result({
-  "duration": 22200,
+  "duration": 17100,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInStepdefs.iClickOnSignInLink()"
 });
 formatter.result({
-  "duration": 2087205501,
+  "duration": 3755457400,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInStepdefs.iEnterEmailid()"
 });
 formatter.result({
-  "duration": 73661100,
+  "duration": 76074500,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInStepdefs.iEnterPassword()"
 });
 formatter.result({
-  "duration": 74027500,
+  "duration": 68253300,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInStepdefs.iClickOnSignInButton()"
 });
 formatter.result({
-  "duration": 1820623401,
+  "duration": 8163976600,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInStepdefs.iVerifyThatSignOutLinkIsDisplayed()"
 });
 formatter.result({
-  "duration": 31148600,
+  "duration": 28838600,
   "status": "passed"
 });
 formatter.after({
-  "duration": 18600,
+  "duration": 634011800,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4006314900,
+  "duration": 6512811100,
   "status": "passed"
 });
 formatter.scenario({
@@ -857,53 +857,53 @@ formatter.match({
   "location": "SignInStepdefs.iAmOnHomePage()"
 });
 formatter.result({
-  "duration": 18899,
+  "duration": 20900,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInStepdefs.iClickOnSignInLink()"
 });
 formatter.result({
-  "duration": 1574326899,
+  "duration": 6496444800,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInStepdefs.iEnterEmailid()"
 });
 formatter.result({
-  "duration": 77866700,
+  "duration": 71396900,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInStepdefs.iEnterPassword()"
 });
 formatter.result({
-  "duration": 72646899,
+  "duration": 70820000,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInStepdefs.iClickOnSignInButton()"
 });
 formatter.result({
-  "duration": 1969368000,
+  "duration": 12897935000,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInStepdefs.iClickOnSignOutLink()"
 });
 formatter.result({
-  "duration": 2105528400,
+  "duration": 10494430200,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInStepdefs.iVerifySignInLinkDisplayed()"
 });
 formatter.result({
-  "duration": 29420500,
+  "duration": 31075700,
   "status": "passed"
 });
 formatter.after({
-  "duration": 20901,
+  "duration": 629218500,
   "status": "passed"
 });
 formatter.uri("womenCategoryPage.feature");
@@ -915,7 +915,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 5439907201,
+  "duration": 7158218200,
   "status": "passed"
 });
 formatter.scenario({
@@ -945,25 +945,25 @@ formatter.match({
   "location": "SignInStepdefs.iAmOnHomePage()"
 });
 formatter.result({
-  "duration": 22700,
+  "duration": 18400,
   "status": "passed"
 });
 formatter.match({
   "location": "WomenCategoryStepdefs.iClickOnWomenTab()"
 });
 formatter.result({
-  "duration": 1692624801,
+  "duration": 4846652300,
   "status": "passed"
 });
 formatter.match({
   "location": "WomenCategoryStepdefs.iVerifyWomenText()"
 });
 formatter.result({
-  "duration": 28272100,
+  "duration": 34285400,
   "status": "passed"
 });
 formatter.after({
-  "duration": 23000,
+  "duration": 628016400,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -972,7 +972,13 @@ formatter.scenarioOutline({
   "description": "",
   "id": "women-category-page-test;verify-user-should-add-product-to-the-cart-successfully",
   "type": "scenario_outline",
-  "keyword": "Scenario Outline"
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 9,
+      "name": "@smoke"
+    }
+  ]
 });
 formatter.step({
   "line": 11,
@@ -1011,21 +1017,16 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "I see pop up will display",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 19,
   "name": "I verify the message product successfully added to your shopping cart",
   "keyword": "And "
 });
 formatter.step({
-  "line": 20,
+  "line": 19,
   "name": "click on x button nad close the pop up",
   "keyword": "Then "
 });
 formatter.examples({
-  "line": 21,
+  "line": 20,
   "name": "",
   "description": "",
   "id": "women-category-page-test;verify-user-should-add-product-to-the-cart-successfully;",
@@ -1037,7 +1038,7 @@ formatter.examples({
         "size",
         "colour"
       ],
-      "line": 22,
+      "line": 21,
       "id": "women-category-page-test;verify-user-should-add-product-to-the-cart-successfully;;1"
     },
     {
@@ -1047,7 +1048,7 @@ formatter.examples({
         "M",
         "White"
       ],
-      "line": 23,
+      "line": 22,
       "id": "women-category-page-test;verify-user-should-add-product-to-the-cart-successfully;;2"
     },
     {
@@ -1057,7 +1058,7 @@ formatter.examples({
         "L",
         "Orange"
       ],
-      "line": 24,
+      "line": 23,
       "id": "women-category-page-test;verify-user-should-add-product-to-the-cart-successfully;;3"
     },
     {
@@ -1067,7 +1068,7 @@ formatter.examples({
         "S",
         "Green"
       ],
-      "line": 25,
+      "line": 24,
       "id": "women-category-page-test;verify-user-should-add-product-to-the-cart-successfully;;4"
     },
     {
@@ -1077,23 +1078,29 @@ formatter.examples({
         "M",
         "Blue"
       ],
-      "line": 26,
+      "line": 25,
       "id": "women-category-page-test;verify-user-should-add-product-to-the-cart-successfully;;5"
     }
   ],
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 4094623799,
+  "duration": 8162134200,
   "status": "passed"
 });
 formatter.scenario({
-  "line": 23,
+  "line": 22,
   "name": "Verify user should add product to the cart successfully",
   "description": "",
   "id": "women-category-page-test;verify-user-should-add-product-to-the-cart-successfully;;2",
   "type": "scenario",
-  "keyword": "Scenario Outline"
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 9,
+      "name": "@smoke"
+    }
+  ]
 });
 formatter.step({
   "line": 11,
@@ -1144,16 +1151,11 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "I see pop up will display",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 19,
   "name": "I verify the message product successfully added to your shopping cart",
   "keyword": "And "
 });
 formatter.step({
-  "line": 20,
+  "line": 19,
   "name": "click on x button nad close the pop up",
   "keyword": "Then "
 });
@@ -1161,14 +1163,14 @@ formatter.match({
   "location": "SignInStepdefs.iAmOnHomePage()"
 });
 formatter.result({
-  "duration": 26300,
+  "duration": 45500,
   "status": "passed"
 });
 formatter.match({
   "location": "WomenCategoryStepdefs.iClickOnWomenTab()"
 });
 formatter.result({
-  "duration": 1694430200,
+  "duration": 3140664900,
   "status": "passed"
 });
 formatter.match({
@@ -1181,7 +1183,7 @@ formatter.match({
   "location": "WomenCategoryStepdefs.iClickOnProduct(String)"
 });
 formatter.result({
-  "duration": 71734400,
+  "duration": 7111750900,
   "status": "passed"
 });
 formatter.match({
@@ -1194,9 +1196,8 @@ formatter.match({
   "location": "WomenCategoryStepdefs.iChangeQuantity(String)"
 });
 formatter.result({
-  "duration": 20073883100,
-  "error_message": "org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//input[@id\u003d\u0027quantity_wanted\u0027]\"}\n  (Session info: chrome\u003d105.0.5195.102)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: \u00274.0.0\u0027, revision: \u00273a21814679\u0027\nSystem info: host: \u0027DHAWALHP\u0027, ip: \u0027192.168.0.48\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_121\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [416862c1906365b13fd8b0e42dfc5c10, findElement {using\u003dxpath, value\u003d//input[@id\u003d\u0027quantity_wanted\u0027]}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\\Users\\dhawa\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49705}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49705/devtoo..., se:cdpVersion: 105.0.5195.102, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 416862c1906365b13fd8b0e42dfc5c10\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)\r\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)\r\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:164)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:139)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:559)\r\n\tat org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)\r\n\tat org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:383)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:375)\r\n\tat org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)\r\n\tat org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)\r\n\tat com.sun.proxy.$Proxy23.clear(Unknown Source)\r\n\tat com.automation.utility.Utility.clearValue(Utility.java:363)\r\n\tat com.automation.pages.ProductPage.changeQty(ProductPage.java:69)\r\n\tat com.automation.steps.WomenCategoryStepdefs.iChangeQuantity(WomenCategoryStepdefs.java:31)\r\n\tat ✽.And I change quantity \"2\"(womenCategoryPage.feature:14)\r\n",
-  "status": "failed"
+  "duration": 1099986800,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -1208,7 +1209,8 @@ formatter.match({
   "location": "WomenCategoryStepdefs.iSelectSize(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 1106748100,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -1220,47 +1222,51 @@ formatter.match({
   "location": "WomenCategoryStepdefs.iSelectColour(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 1048254700,
+  "status": "passed"
 });
 formatter.match({
   "location": "WomenCategoryStepdefs.iClickOnAddToCartButton()"
 });
 formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "WomenCategoryStepdefs.iSeePopUpWillDisplay()"
-});
-formatter.result({
-  "status": "skipped"
+  "duration": 1077974400,
+  "status": "passed"
 });
 formatter.match({
   "location": "WomenCategoryStepdefs.iVerifyTheMessageProductSuccessfullyAddedToYourShoppingCart()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 4040310400,
+  "status": "passed"
 });
 formatter.match({
   "location": "WomenCategoryStepdefs.clickOnXButtonNadCloseThePopUp()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 741072200,
+  "status": "passed"
 });
 formatter.after({
-  "duration": 214626399,
+  "duration": 640773800,
   "status": "passed"
 });
 formatter.before({
-  "duration": 5296797800,
+  "duration": 9404875500,
   "status": "passed"
 });
 formatter.scenario({
-  "line": 24,
+  "line": 23,
   "name": "Verify user should add product to the cart successfully",
   "description": "",
   "id": "women-category-page-test;verify-user-should-add-product-to-the-cart-successfully;;3",
   "type": "scenario",
-  "keyword": "Scenario Outline"
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 9,
+      "name": "@smoke"
+    }
+  ]
 });
 formatter.step({
   "line": 11,
@@ -1311,16 +1317,11 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "I see pop up will display",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 19,
   "name": "I verify the message product successfully added to your shopping cart",
   "keyword": "And "
 });
 formatter.step({
-  "line": 20,
+  "line": 19,
   "name": "click on x button nad close the pop up",
   "keyword": "Then "
 });
@@ -1328,14 +1329,14 @@ formatter.match({
   "location": "SignInStepdefs.iAmOnHomePage()"
 });
 formatter.result({
-  "duration": 14900,
+  "duration": 14000,
   "status": "passed"
 });
 formatter.match({
   "location": "WomenCategoryStepdefs.iClickOnWomenTab()"
 });
 formatter.result({
-  "duration": 1929671900,
+  "duration": 5987368300,
   "status": "passed"
 });
 formatter.match({
@@ -1348,7 +1349,7 @@ formatter.match({
   "location": "WomenCategoryStepdefs.iClickOnProduct(String)"
 });
 formatter.result({
-  "duration": 50807500,
+  "duration": 5330241900,
   "status": "passed"
 });
 formatter.match({
@@ -1361,9 +1362,8 @@ formatter.match({
   "location": "WomenCategoryStepdefs.iChangeQuantity(String)"
 });
 formatter.result({
-  "duration": 20044513200,
-  "error_message": "org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//input[@id\u003d\u0027quantity_wanted\u0027]\"}\n  (Session info: chrome\u003d105.0.5195.102)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: \u00274.0.0\u0027, revision: \u00273a21814679\u0027\nSystem info: host: \u0027DHAWALHP\u0027, ip: \u0027192.168.0.48\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_121\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [53106b645e68a93fd44f5ee642f4f7e2, findElement {using\u003dxpath, value\u003d//input[@id\u003d\u0027quantity_wanted\u0027]}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\\Users\\dhawa\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50301}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50301/devtoo..., se:cdpVersion: 105.0.5195.102, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 53106b645e68a93fd44f5ee642f4f7e2\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)\r\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)\r\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:164)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:139)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:559)\r\n\tat org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)\r\n\tat org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:383)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:375)\r\n\tat org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)\r\n\tat org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)\r\n\tat com.sun.proxy.$Proxy23.clear(Unknown Source)\r\n\tat com.automation.utility.Utility.clearValue(Utility.java:363)\r\n\tat com.automation.pages.ProductPage.changeQty(ProductPage.java:69)\r\n\tat com.automation.steps.WomenCategoryStepdefs.iChangeQuantity(WomenCategoryStepdefs.java:31)\r\n\tat ✽.And I change quantity \"3\"(womenCategoryPage.feature:14)\r\n",
-  "status": "failed"
+  "duration": 1099994100,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -1375,7 +1375,8 @@ formatter.match({
   "location": "WomenCategoryStepdefs.iSelectSize(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 1097859000,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -1387,47 +1388,51 @@ formatter.match({
   "location": "WomenCategoryStepdefs.iSelectColour(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 21057487100,
+  "status": "passed"
 });
 formatter.match({
   "location": "WomenCategoryStepdefs.iClickOnAddToCartButton()"
 });
 formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "WomenCategoryStepdefs.iSeePopUpWillDisplay()"
-});
-formatter.result({
-  "status": "skipped"
+  "duration": 1072322500,
+  "status": "passed"
 });
 formatter.match({
   "location": "WomenCategoryStepdefs.iVerifyTheMessageProductSuccessfullyAddedToYourShoppingCart()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 4052345800,
+  "status": "passed"
 });
 formatter.match({
   "location": "WomenCategoryStepdefs.clickOnXButtonNadCloseThePopUp()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 52047700,
+  "status": "passed"
 });
 formatter.after({
-  "duration": 193477100,
+  "duration": 633259400,
   "status": "passed"
 });
 formatter.before({
-  "duration": 3898909499,
+  "duration": 7103411600,
   "status": "passed"
 });
 formatter.scenario({
-  "line": 25,
+  "line": 24,
   "name": "Verify user should add product to the cart successfully",
   "description": "",
   "id": "women-category-page-test;verify-user-should-add-product-to-the-cart-successfully;;4",
   "type": "scenario",
-  "keyword": "Scenario Outline"
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 9,
+      "name": "@smoke"
+    }
+  ]
 });
 formatter.step({
   "line": 11,
@@ -1478,16 +1483,11 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "I see pop up will display",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 19,
   "name": "I verify the message product successfully added to your shopping cart",
   "keyword": "And "
 });
 formatter.step({
-  "line": 20,
+  "line": 19,
   "name": "click on x button nad close the pop up",
   "keyword": "Then "
 });
@@ -1495,14 +1495,14 @@ formatter.match({
   "location": "SignInStepdefs.iAmOnHomePage()"
 });
 formatter.result({
-  "duration": 280001,
+  "duration": 25300,
   "status": "passed"
 });
 formatter.match({
   "location": "WomenCategoryStepdefs.iClickOnWomenTab()"
 });
 formatter.result({
-  "duration": 2064489800,
+  "duration": 6224750200,
   "status": "passed"
 });
 formatter.match({
@@ -1515,7 +1515,7 @@ formatter.match({
   "location": "WomenCategoryStepdefs.iClickOnProduct(String)"
 });
 formatter.result({
-  "duration": 54859101,
+  "duration": 5440206900,
   "status": "passed"
 });
 formatter.match({
@@ -1528,9 +1528,8 @@ formatter.match({
   "location": "WomenCategoryStepdefs.iChangeQuantity(String)"
 });
 formatter.result({
-  "duration": 20038842900,
-  "error_message": "org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//input[@id\u003d\u0027quantity_wanted\u0027]\"}\n  (Session info: chrome\u003d105.0.5195.102)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: \u00274.0.0\u0027, revision: \u00273a21814679\u0027\nSystem info: host: \u0027DHAWALHP\u0027, ip: \u0027192.168.0.48\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_121\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [c4066a23fd0d384ddfb32eda0edd04f6, findElement {using\u003dxpath, value\u003d//input[@id\u003d\u0027quantity_wanted\u0027]}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\\Users\\dhawa\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51037}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51037/devtoo..., se:cdpVersion: 105.0.5195.102, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: c4066a23fd0d384ddfb32eda0edd04f6\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)\r\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)\r\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:164)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:139)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:559)\r\n\tat org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)\r\n\tat org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:383)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:375)\r\n\tat org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)\r\n\tat org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)\r\n\tat com.sun.proxy.$Proxy23.clear(Unknown Source)\r\n\tat com.automation.utility.Utility.clearValue(Utility.java:363)\r\n\tat com.automation.pages.ProductPage.changeQty(ProductPage.java:69)\r\n\tat com.automation.steps.WomenCategoryStepdefs.iChangeQuantity(WomenCategoryStepdefs.java:31)\r\n\tat ✽.And I change quantity \"4\"(womenCategoryPage.feature:14)\r\n",
-  "status": "failed"
+  "duration": 1110086300,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -1542,7 +1541,8 @@ formatter.match({
   "location": "WomenCategoryStepdefs.iSelectSize(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 1053007800,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -1554,25 +1554,23 @@ formatter.match({
   "location": "WomenCategoryStepdefs.iSelectColour(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 1040077000,
+  "status": "passed"
 });
 formatter.match({
   "location": "WomenCategoryStepdefs.iClickOnAddToCartButton()"
 });
 formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "WomenCategoryStepdefs.iSeePopUpWillDisplay()"
-});
-formatter.result({
-  "status": "skipped"
+  "duration": 1068552900,
+  "status": "passed"
 });
 formatter.match({
   "location": "WomenCategoryStepdefs.iVerifyTheMessageProductSuccessfullyAddedToYourShoppingCart()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 4043711300,
+  "error_message": "java.lang.AssertionError: expected [] but found [Proceed to checkout]\r\n\tat org.testng.Assert.fail(Assert.java:96)\r\n\tat org.testng.Assert.failNotEquals(Assert.java:776)\r\n\tat org.testng.Assert.assertEqualsImpl(Assert.java:137)\r\n\tat org.testng.Assert.assertEquals(Assert.java:118)\r\n\tat org.testng.Assert.assertEquals(Assert.java:453)\r\n\tat org.testng.Assert.assertEquals(Assert.java:463)\r\n\tat com.automation.steps.WomenCategoryStepdefs.iVerifyTheMessageProductSuccessfullyAddedToYourShoppingCart(WomenCategoryStepdefs.java:65)\r\n\tat ✽.And I verify the message product successfully added to your shopping cart(womenCategoryPage.feature:18)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "WomenCategoryStepdefs.clickOnXButtonNadCloseThePopUp()"
@@ -1581,20 +1579,26 @@ formatter.result({
   "status": "skipped"
 });
 formatter.after({
-  "duration": 188235900,
+  "duration": 834807300,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4139656700,
+  "duration": 5278488400,
   "status": "passed"
 });
 formatter.scenario({
-  "line": 26,
+  "line": 25,
   "name": "Verify user should add product to the cart successfully",
   "description": "",
   "id": "women-category-page-test;verify-user-should-add-product-to-the-cart-successfully;;5",
   "type": "scenario",
-  "keyword": "Scenario Outline"
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 9,
+      "name": "@smoke"
+    }
+  ]
 });
 formatter.step({
   "line": 11,
@@ -1645,16 +1649,11 @@ formatter.step({
 });
 formatter.step({
   "line": 18,
-  "name": "I see pop up will display",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 19,
   "name": "I verify the message product successfully added to your shopping cart",
   "keyword": "And "
 });
 formatter.step({
-  "line": 20,
+  "line": 19,
   "name": "click on x button nad close the pop up",
   "keyword": "Then "
 });
@@ -1662,14 +1661,14 @@ formatter.match({
   "location": "SignInStepdefs.iAmOnHomePage()"
 });
 formatter.result({
-  "duration": 25600,
+  "duration": 21900,
   "status": "passed"
 });
 formatter.match({
   "location": "WomenCategoryStepdefs.iClickOnWomenTab()"
 });
 formatter.result({
-  "duration": 2568419499,
+  "duration": 4678713900,
   "status": "passed"
 });
 formatter.match({
@@ -1682,7 +1681,7 @@ formatter.match({
   "location": "WomenCategoryStepdefs.iClickOnProduct(String)"
 });
 formatter.result({
-  "duration": 48054299,
+  "duration": 116382400,
   "status": "passed"
 });
 formatter.match({
@@ -1695,8 +1694,8 @@ formatter.match({
   "location": "WomenCategoryStepdefs.iChangeQuantity(String)"
 });
 formatter.result({
-  "duration": 20039755100,
-  "error_message": "org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//input[@id\u003d\u0027quantity_wanted\u0027]\"}\n  (Session info: chrome\u003d105.0.5195.102)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: \u00274.0.0\u0027, revision: \u00273a21814679\u0027\nSystem info: host: \u0027DHAWALHP\u0027, ip: \u0027192.168.0.48\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_121\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [13e64efa31e7d2d12555769f5c9c49a3, findElement {using\u003dxpath, value\u003d//input[@id\u003d\u0027quantity_wanted\u0027]}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\\Users\\dhawa\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51659}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51659/devtoo..., se:cdpVersion: 105.0.5195.102, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 13e64efa31e7d2d12555769f5c9c49a3\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)\r\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)\r\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:164)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:139)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:559)\r\n\tat org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)\r\n\tat org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:383)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:375)\r\n\tat org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)\r\n\tat org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)\r\n\tat com.sun.proxy.$Proxy23.clear(Unknown Source)\r\n\tat com.automation.utility.Utility.clearValue(Utility.java:363)\r\n\tat com.automation.pages.ProductPage.changeQty(ProductPage.java:69)\r\n\tat com.automation.steps.WomenCategoryStepdefs.iChangeQuantity(WomenCategoryStepdefs.java:31)\r\n\tat ✽.And I change quantity \"2\"(womenCategoryPage.feature:14)\r\n",
+  "duration": 21071670400,
+  "error_message": "org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//input[@id\u003d\u0027quantity_wanted\u0027]\"}\n  (Session info: chrome\u003d105.0.5195.102)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: \u00274.0.0\u0027, revision: \u00273a21814679\u0027\nSystem info: host: \u0027DHAWALHP\u0027, ip: \u0027192.168.0.48\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_121\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [f37ba4f1c1380c6068a0b9b2ff13f2aa, findElement {using\u003dxpath, value\u003d//input[@id\u003d\u0027quantity_wanted\u0027]}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.102, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\\Users\\dhawa\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:54344}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:54344/devtoo..., se:cdpVersion: 105.0.5195.102, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: f37ba4f1c1380c6068a0b9b2ff13f2aa\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)\r\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)\r\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:164)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:139)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:559)\r\n\tat org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)\r\n\tat org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:383)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:375)\r\n\tat org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)\r\n\tat org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)\r\n\tat com.sun.proxy.$Proxy23.clear(Unknown Source)\r\n\tat com.automation.utility.Utility.clearValue(Utility.java:363)\r\n\tat com.automation.pages.ProductPage.changeQty(ProductPage.java:73)\r\n\tat com.automation.steps.WomenCategoryStepdefs.iChangeQuantity(WomenCategoryStepdefs.java:33)\r\n\tat ✽.And I change quantity \"2\"(womenCategoryPage.feature:14)\r\n",
   "status": "failed"
 });
 formatter.match({
@@ -1730,12 +1729,6 @@ formatter.result({
   "status": "skipped"
 });
 formatter.match({
-  "location": "WomenCategoryStepdefs.iSeePopUpWillDisplay()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
   "location": "WomenCategoryStepdefs.iVerifyTheMessageProductSuccessfullyAddedToYourShoppingCart()"
 });
 formatter.result({
@@ -1748,7 +1741,7 @@ formatter.result({
   "status": "skipped"
 });
 formatter.after({
-  "duration": 196064300,
+  "duration": 842085900,
   "status": "passed"
 });
 });
